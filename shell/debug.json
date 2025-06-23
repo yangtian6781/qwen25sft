@@ -1,0 +1,8 @@
+{
+    "spar_scannetpp_position_matching_sentence_79816": {
+        "root": "/share/tianyang/data/SPAR-7M/spar/scannetpp/images",
+        "annotation": "/share/tianyang/data/SPAR-7M/spar/scannetpp/qa_jsonl/train/position_matching/sentence/sentence_79816.jsonl",
+        "repeat_time": 0.05,
+        "length": 79816
+    }
+}

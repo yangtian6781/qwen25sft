@@ -1,0 +1,7 @@
+{
+    "pixmo_docs_charts": {
+        "root": "/share/tianyang/data/ChartQA",
+        "annotation": "/share/tianyang/data/ChartQA/train_multi_turn.jsonl",
+        "repeat_time": 1
+    }
+}
